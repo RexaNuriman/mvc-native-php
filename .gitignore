@@ -1,0 +1,9 @@
+# File konfigurasi lokal
+.env
+
+# Folder editor dan OS
+.vscode/
+.DS_Store
+
+# File sementara
+*.log
